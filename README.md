@@ -6,7 +6,7 @@ Part: **Outlast: Whistleblower Only**
 
 # How install this?
 Need Outlast: **https://store.steampowered.com/app/238320/Outlast** \
-+ Outlast: Whistleblower: **https://store.steampowered.com/app/273300/Outlast_Whistleblower_DLC**
+Need Outlast: Whistleblower: **https://store.steampowered.com/app/273300/Outlast_Whistleblower_DLC**
 
 1. Download this repository: ``git clone https://github.com/ShyKiss/outlast-dlc-all-persistent.git``
 
